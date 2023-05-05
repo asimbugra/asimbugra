@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @asimbugra
-- 👀 I’m interested in python , C and C++
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asimbugra@gmail.com
 
 <!---
