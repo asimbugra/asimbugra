@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asimbugra&label=Profile%20views&color=0e75b6&style=flat" alt="asimbugra" /> </p>
 
-- 🌱 I’m currently learning **Rust, angular etc.**
+- 🌱 I’m currently learning **Rust, Angular, Python etc.**
 
 - 📫 How to reach me **asimbugra1@gmail.com**
 
