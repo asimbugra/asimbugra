@@ -29,5 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimbugra&" alt="asimbugra" /></p>
 
 
-
-![snake gif](https://github.com/asimbugra/asimbugra/blob/output/github-contribution-grid-snake.gif)
